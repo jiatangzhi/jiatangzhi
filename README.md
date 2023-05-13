@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey there! I'm Jia ☺️
 
+<div id="social-links" align="center">
+  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+</div>
 <!--
 **jiatangzhi/jiatangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
