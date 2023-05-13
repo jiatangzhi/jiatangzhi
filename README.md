@@ -34,11 +34,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<div id="stats" align="center">
-  ![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)] (https://github.com/jiatangzhi/github-readme-stats)
+<table>
+  <th>
+    <td>![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true)</td>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)] (https://github.com/jiatangzhi/github-readme-stats)</td>
   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)](https://git.io/streak-stats) -->
- </div>
+  </th>
+<table>
 <br>
 
 <div id="badges" align="center">
