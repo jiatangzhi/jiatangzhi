@@ -39,11 +39,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 
 <div id="badges" align="center">
 <!--   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
