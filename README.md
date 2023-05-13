@@ -1,6 +1,6 @@
 ### Hey there! I'm Jia ☺️
--
-<h3>:woman_technologist: About Me: </h3>
+--
+###:woman_technologist: About Me: 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jiatangzhi/">
