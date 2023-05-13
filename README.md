@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)] (https://github.com/jiatangzhi/github-readme-stats)</td>
   <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)](https://git.io/streak-stats) -->
   </th>
-<table>
+</table>
 <br>
 
 <div id="badges" align="center">
