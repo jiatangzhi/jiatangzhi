@@ -1,5 +1,5 @@
 ### Hey there! I'm Jia ☺️
-<hr>
+---
 :woman_technologist: <h3>About Me<h3> :
 
 <div id="badges" align="center">
