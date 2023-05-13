@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)](https://github.com/jiatangzhi/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)](https://git.io/streak-stats)
 <br>
