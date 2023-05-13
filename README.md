@@ -39,8 +39,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&theme=transparent&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 <div>
 
-[![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)] (https://github.com/jiatangzhi/github-readme-stats)
+![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)(https://github.com/jiatangzhi/github-readme-stats)
 <!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)](https://git.io/streak-stats) -->
 
 <br>
