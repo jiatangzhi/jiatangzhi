@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=jiatangzhi&style=flat-square&color=pink" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=jiatangzhi&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **jiatangzhi/jiatangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
