@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)<br>
 ![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true) <br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br>
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
 
 <div id="badges" align="center">
 <!--   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
