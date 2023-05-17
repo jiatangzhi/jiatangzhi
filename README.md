@@ -42,6 +42,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Jia Xin Tang Zhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiatangzhi&theme=transparent&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&theme=transparent&show_icons)
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
