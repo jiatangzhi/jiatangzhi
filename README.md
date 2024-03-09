@@ -1,20 +1,28 @@
 ### Hey there! I'm Jia ☺️
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jiatangzhi/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jiatangzhi&style=flat-square&color=blue" alt=""/>
+</div>
+
 ---
 
-### :woman_technologist: About Me: 
+### About Me :rocket: 
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineer 
 <!--  :telescope: I’m working as a web developer and contributing to frontend for building web applications. -->
 
-- :seedling: Exploring Technical Content Writing.
+- :hearts: I am passionate about Data Engineering, Machine Learning/Deep Learning, and Music
 
-- :zap: In my free time, I go to the gym read tech articles.
+- :mortar_board: BSc Computer Science and MSc Data Science & Artificial Intelligence
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jiatangzhi-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jiatangzhi/](https://www.linkedin.com/in/jiatangzhi/))
 
 ---
 
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,6 +41,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 ---
+--->
 
 ### :fire: My Stats :
 <div align="center">
@@ -42,12 +51,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jiatangzhi/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
-  <img src="https://komarev.com/ghpvc/?username=jiatangzhi&style=flat-square&color=blue" alt=""/>
-</div>
+
 <!--
 **jiatangzhi/jiatangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
