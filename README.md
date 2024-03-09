@@ -1,6 +1,6 @@
 ### Hey there! I'm Jia ☺️
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -44,7 +44,7 @@
 --->
 
 ### :fire: My Stats :
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=jiatangzhi&show_icons=true&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
   <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
 </div>
