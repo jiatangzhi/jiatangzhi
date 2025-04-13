@@ -11,15 +11,11 @@
 
 - :mortar_board: BSc Computer Science and MSc Data Science & Artificial Intelligence
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jiatangzhi-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jiatangzhi/](https://www.linkedin.com/in/jiatangzhi/))
-  <div id="badges" align="left">
+- :mailbox: How to reach me: 
   <a href="https://www.linkedin.com/in/jiatangzhi/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-<!--  <img src="https://komarev.com/ghpvc/?username=jiatangzhi&style=flat-square&color=blue" alt=""/> -->
-</div>
-
 ---
 
 <!--
@@ -51,8 +47,13 @@
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
 
 <div align="center">
-    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94eHhxNXAzNTVmaTB3bXlmNW55NzhpcjRxYTRxenFuZ3g4NHdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="100%" height="400px" />
+  <img 
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm94eHhxNXAzNTVmaTB3bXlmNW55NzhpcjRxYTRxenFuZ3g4NHdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" 
+    style="max-width: 300px; height: auto;" 
+    alt="fun gif"
+/>
 </div>
+
 
 <!--
 **jiatangzhi/jiatangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
