@@ -1,7 +1,8 @@
 ### Hey there! I'm Jia ☺️
 
 ---
-<img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="100" alt="jia sprite gif" align="right"/>
+
+<img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="150" alt="jia sprite gif" align="right"/>
 
 ### About Me :rocket: 
 
