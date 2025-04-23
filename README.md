@@ -1,10 +1,9 @@
 ### Hey there! I'm Jia ☺️
-<table>
-  <tr>
-    <td><h3>Hey there! I'm Jia</h3></td>
-    <td><img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/></td>
-  </tr>
-</table>
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+  <h3 style="margin: 0;">Hey there! I'm Jia ☺️</h3>
+  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
+</div>
+
 
 ---
 
