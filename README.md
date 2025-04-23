@@ -1,4 +1,11 @@
 ### Hey there! I'm Jia ☺️
+<table>
+  <tr>
+    <td><h3>Hey there! I'm Jia</h3></td>
+    <td><img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/></td>
+  </tr>
+</table>
+
 ---
 
 ### About Me :rocket: 
