@@ -1,10 +1,4 @@
 ### Hey there! I'm Jia ☺️
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h3>Hey there! I'm Jia ☺️</h3>
-  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
-</div>
-
 ---
 
 ### About Me :rocket: 
@@ -51,13 +45,10 @@
 </div>
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
 
-<div align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M0ZHFyaWxnbDdtZGJza2F1cnJsZWYzcnlnc3Z4OTNzNDJycmxuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
-    style="width: 100%; height: auto;" 
-    alt="fun gif"
-  />
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
 </div>
+
 
 
 <!--
