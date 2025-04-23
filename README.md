@@ -1,9 +1,5 @@
 ### Hey there! I'm Jia ☺️
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
-  <h3 style="margin: 0;">Hey there! I'm Jia ☺️</h3>
-  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
-</div>
-
+<img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif" align="right"/>
 
 ---
 
@@ -50,10 +46,6 @@
   <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
 </div>
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiatangzhi&theme=transparent&background=000000)<br> -->
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
-</div>
 
 
 
