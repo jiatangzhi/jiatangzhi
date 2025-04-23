@@ -1,5 +1,10 @@
 ### Hey there! I'm Jia ☺️
 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h3>Hey there! I'm Jia ☺️</h3>
+  <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="80" alt="jia sprite gif"/>
+</div>
+
 ---
 
 ### About Me :rocket: 
