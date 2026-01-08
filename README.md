@@ -6,7 +6,7 @@
 
 ### About Me :rocket: 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am an ML Engineer 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a developer 
 <!--  :telescope: I’m working as a web developer and contributing to frontend for building web applications. -->
 
 - :hearts: I am passionate about Data & Machine Learning
