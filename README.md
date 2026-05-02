@@ -5,6 +5,7 @@
 <img src="https://github.com/jiatangzhi/jiatangzhi/blob/main/me.gif?raw=true" width="125" alt="jia sprite gif" align="right"/>
 
 
+
 ### About Me :rocket: 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am passionate about Data & Machine Learning :hearts: 
@@ -15,7 +16,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+
   
+
+---
+
+### :fire: My Stats :
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=jiatangzhi&show_icons=true&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
+</div>
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :                                                                                                             
@@ -34,11 +46,3 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### :fire: My Stats :
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=jiatangzhi&show_icons=true&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
-  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=jiatangzhi&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
-</div>
